@@ -76,7 +76,7 @@ GROQ_API_KEY = "your-groq-api-key-here"
 
 ### 👩‍💻 Author
 KANCHAN SAINI
-📧 Email: # 📚 Quiz-N-Learn: PDF-Based MCQ Generator
+📧 Email: ksaini_be22@thapar.edu
 
 
 
