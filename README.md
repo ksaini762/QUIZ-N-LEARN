@@ -44,7 +44,6 @@ GROQ_API_KEY = "your-groq-api-key-here"
 1) Uploading the document
 2) Evaluates the quiz and shows the final score
    
-   ![image](https://github.com/user-attachments/assets/318dfc68-8aab-4d91-9d7b-ceff192cd41e)
 3) Option to download for further revision
    ![image](https://github.com/user-attachments/assets/43bab416-d00f-4c0b-baa2-c95014fd85be)
 
